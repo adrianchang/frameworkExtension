@@ -1,0 +1,92 @@
+Anaconda-Navigator.app 	$PKG_VERSION
+Android File Transfer.app 	1.0
+Android Studio.app 	3.1
+App Store.app 	2.3
+Atom.app 	1.24.0
+Automator.app 	2.8
+Avast.app 	13.5
+AvastSecureLine.app 	3.1.1
+Battle.net.app 	1.9.2.9601
+CLion.app 	1.0.1
+Calculator.app 	10.13
+Calendar.app 	10.0
+Chess.app 	3.15
+Chrome Remote Desktop Host Uninstaller.app 	65.0.3325
+Contacts.app 	11.0
+DVD Player.app 	5.8
+Dashboard.app 	1.8
+Dictionary.app 	2.2.2
+DiffMerge.app 	4.2.1
+Dropbox.app 	2.10.30
+Expo XDE.app 	2.21.0
+FaceTime.app 	4.0
+Font Book.app 	8.0
+Genymotion Shell.app 	Genymotion.app 	GitHub Desktop.app 	Sword of Destiny
+Google Chrome.app 	65.0.3325.181
+Google Drive.app 	2.34
+Image Capture.app 	7.0
+IntelliJ IDEA 14 CE.app 	14.1.3
+IntelliJ IDEA CE.app 	2017.3.3
+Keynote.app 	8.0
+Kindle.app 	1.21.1
+LINE.app 	5.6.0
+Launchpad.app 	1.0
+LightBlue.app 	1.2
+Mail.app 	11.1
+Maps.app 	2.0
+Messages.app 	11.0
+Mission Control.app 	1.2
+MySQLWorkbench.app 	6.3.6.CE
+Notes.app 	4.5
+Numbers.app 	4.3.1
+Origami Studio.app 	PDF to Keynote.app 	1.04a
+Pages.app 	6.3.1
+Paint X Lite.app 	1.1
+Paintbrush.app 	2.1.2
+Photo Booth.app 	9.0
+Photos.app 	3.0
+Preview.app 	10.0
+QuickTime Player.app 	10.4
+Reminders.app 	5.0
+Safari.app 	11.0.1
+Siri.app 	1.0
+Skype.app 	8.19
+Spotify.app 	1.0.68.407.g6864aaaf
+Stickies.app 	10.1
+Sublime Text.app 	Build 3126
+System Preferences.app 	14.0
+TextEdit.app 	1.13
+Time Machine.app 	1.3
+Typora.app 	0.9.9.14
+VMware Fusion.app 	7.0.0
+VirtualBox.app 	5.2.0
+WeChat.app 	2.3.11
+Wine.app 	1.7.16
+Wireshark.app 	1.12.7
+Xcode.app 	9.2
+Zenmap.app 	7.10
+iBooks.app 	1.12
+iMovie.app 	10.1.8
+iPhoto.app 	9.6.1
+iTunes.app 	12.7.4
+iZip Unarchiver.app 	3.0.0
+uTorrent.app 	1.8.4
+unrar.app 	1.1
+Activity Monitor.app 	10.13
+AirPort Utility.app 	6.3.8
+Audio MIDI Setup.app 	3.2
+Bluetooth File Exchange.app 	6.0.0
+Boot Camp Assistant.app 	6.1.0
+ColorSync Utility.app 	4.13.0
+Console.app 	1.0
+Digital Color Meter.app 	5.11
+Disk Utility.app 	17.0
+Grab.app 	1.10
+Grapher.app 	2.6
+Keychain Access.app 	10.0
+Migration Assistant.app 	10.13
+Script Editor.app 	2.10
+System Information.app 	10.12
+Terminal.app 	2.8
+VoiceOver Utility.app 	8
+XQuartz.app 	2.7.7
