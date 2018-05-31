@@ -1,18 +1,19 @@
-{"os": "windows", "softwares": [
-        {"name": "Adobe Flash Player 29 NPAPI", "old_version": "29.0.0.113", "new_version": "29.0.0.171", "id": 0, "updatable": "false"
+{
+    "os": "windows",
+    "softwares": [
+        {
+            "name": "line",
+            "old_version": "1",
+            "new_version": "2",
+            "id": "0",
+            "updatable": "true"
         },
-        {"name": "Adobe Flash Player 29 PPAPI", "old_version": "29.0.0.171", "new_version": "29.0.0.171", "id": 0, "updatable": "false"
-        },
-        {"name": "Google Chrome", "old_version":
-    "65.0.3325.181", "new_version": "67.0.3396.62", "id": 0, "updatable": "false"
-        },
-        {"name": "Xshell 5", "old_version": "5.0.1339", "new_version": "6.0.0089", "id": 0, "updatable": "false"
-        },
-        {"name": "WinRAR 5.40 (32-位)", "old_version": "5.40.0", "new_version": "5.50", "id": 0, "updatable": "false"
-        },
-        {"name": "Xshell 5", "old_version": "5.0.1339", "new_version": "6.0.0089", "id": 0, "updatable": "false"
-        },
-        {"name": "Oracle VM VirtualBox 5.1.26", "old_version": "5.1.26", "new_version": "5.2.12", "id": 0, "updatable": "false"
+        {
+            "name": "wechat",
+            "old_version": "1",
+            "new_version": "2",
+            "id": "1",
+            "updatable": "true"
         }
     ]
 }

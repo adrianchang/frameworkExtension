@@ -8,25 +8,49 @@ import json
 from Software_wrapper import Software
 from response_gen import generate_response
 
-
 version_info_path = './version_info.txt'
+
 
 class HTTPRequstHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
         self.end_headers()
-    # try:
+        #try:
         packet = generate_response()
+        #### DEBUG ######
+        # packet = {
+        #     "os":
+        #     "windows",
+        #     "softwares": [
+        #         {
+        #             "name": "line",
+        #             "old_version": "1",
+        #             "new_version": "2",
+        #             "id": "0",
+        #             "updatable": "true"
+        #         },
+        #         {
+        #             "name": "wechat",
+        #             "old_version": "1",
+        #             "new_version": "2",
+        #             "id": "1",
+        #             "updatable": "true"
+        #         },
+        #     ]
+        # }
+        ###################
         self.wfile.write(json.dumps(packet).encode('utf-8'))
         print('Response has been sent...')
-    # except Exception as e:
-        #print(e)
 
+    # except Exception as e:
+    #print(e)
 
 
 # software info database not used yet, just leave room for further work
 conn = sqlite3.connect('./data/software.db')
 cursor = conn.cursor()
-cursor.execute('CREATE TABLE IF NOT EXISTS Software(name TEXT, local_ver TEXT, latest_ver TEXT)')
+cursor.execute(
+    'CREATE TABLE IF NOT EXISTS Software(name TEXT, local_ver TEXT, latest_ver TEXT)'
+)
 httpd = HTTPServer(('localhost', 3333), HTTPRequstHandler)
 httpd.serve_forever()
