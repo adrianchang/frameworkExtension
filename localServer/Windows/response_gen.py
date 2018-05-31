@@ -13,8 +13,8 @@ def parse_csv(csv_files=[
     ]):
 
     info_table = pd.concat([pd.read_csv(f) for f in csv_files])
-    #print(info_table) #DEBUG
-    return info_table[pd.notnull(info_table['DisplayVersion'])]
+    #drop rows that lacks information 
+    return info_table.dropna(subset=['DisplayName','DisplayVersion'])
 
 # @whitelist: dict of software whitelist
 #  format: {"name":{"url":...,"regex":"..."},...}
@@ -74,33 +74,8 @@ def generate_response(
     return packet
 
 #### Unit test ####
-'''
-white_list = { 
-       "Chrome":{
-        "url":"http://www.softpedia.com/get/Internet/Browsers/Google-Chrome.shtml", 
-        "regex":"(\d+)\.(\d+)\.(\d+)\.(\d+)",
-    },
-    "VMware Player":{
-        "url":"http://www.softpedia.com/get/System/OS-Enhancements/VMware-Player.shtml",
-        "regex":"(\d+)\.(\d+)\.(\d+)\s+Build\s+(\d+)"
-    },
-    "Xshell":{
-        "url":"http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/Xshell.shtml",
-        "regex":"(\d+)\.(\d+)\s+Build\s+(\d+)"
 
-    },
-    "IntelliJ IDEA":{
-        "url":"http://www.softpedia.com/get/Programming/Coding-languages-Compilers/IntelliJ-IDEA.shtml",
-        "regex":"(\d+)\.(\d+)\.(\d+)\s+Build\s+(\d+)\.(\d+)\.(\d+)"
-
-    },
-    "TeamViewer":{
-        "url":"http://www.softpedia.com/get/Internet/Remote-Utils/TeamViewer.shtml",
-        "regex":"(\d+)\.(\d+)\.(\d+)"
-    }
-}  
-'''
-# packet = generate_response(white_list)
+# packet = generate_response()
 # print(packet)
 
 

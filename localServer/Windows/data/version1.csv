@@ -1,0 +1,526 @@
+﻿"DisplayName","DisplayVersion","Publisher","InstallDate"
+"2345看图王","v9.1","2345.com",
+"360安全卫士","11.0.0.2001","360安全中心",
+"Adobe Flash Player 29 NPAPI","29.0.0.113","Adobe Systems Incorporated",
+"Adobe Flash Player 29 PPAPI","29.0.0.171","Adobe Systems Incorporated",
+"净网大师","4.0.610.1900","Shanghai Damo Network Technology Co. Ltd.",
+"支付宝安全控件 5.1.0.3754","5.1.0.3754","Alipay.com Co., Ltd.",
+,"5.1.0.3754",,
+,"5.1.0.3754",,
+,,,
+"CTeX","2.9.2.164","CTEX.ORG",
+"Digilent Software","1.4.6","Digilent, Inc.",
+"福昕阅读器","8.3.0.14878","福建福昕软件开发股份有限公司","20170422"
+"Google Chrome","65.0.3325.181","Google Inc.","20161028"
+"i686-6.2.0-posix-dwarf-rt_v5-rev1",,"MinGW-W64",
+"Xshell 5","5.0.1339","NetSarang Computer, Inc.","20180118"
+"IntelliJ IDEA 2017.3","173.3727.127","JetBrains s.r.o.",
+"鲁大师","5.15.16.1125","鲁大师",
+"暴风转码","1.3","北京暴风科技股份有限公司",
+"马上6","1.0","马上6项目组",
+"Microsoft Help Viewer 2.2","2.2.25420","Microsoft Corporation",
+"Microsoft 帮助查看器 2.2 语言包 - 简体中文","2.2.25420","Microsoft Corporation",
+"Microsoft Visio Professional 2013","15.0.4569.1506","Microsoft Corporation",
+"PureVPN","6.0.1.0","PureVPN","20180426"
+"JetBrains PyCharm 2017.3","173.3727.137","JetBrains s.r.o.",
+"搜狗拼音输入法 8.8正式版","8.8.0.1814","Sogou.com",
+"暴风影音5","5.67.0116.1111","北京暴风科技股份有限公司",
+"TeamViewer 13","13.1.3629","TeamViewer",
+"迅雷","9.1.26.614","迅雷网络技术有限公司",
+"TIM","2.2.0.23734","腾讯科技(深圳)有限公司",
+"微信","2.5.0.67","腾讯科技(深圳)有限公司",
+,,,
+"WinRAR 5.40 (32-位)","5.40.0","win.rar GmbH",
+"x86_64-6.2.0-posix-seh-rt_v5-rev1",,"MinGW-W64",
+"Visual C++ Compiler/Tools X64 X86 Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Team Explorer Language Pack - ENU","14.0.23102","Microsoft Corporation","20161126"
+"Visual C++ Library PGO X86 Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Shell (Minimum)","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6 Targeting Pack (ENU)","4.6.00127","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 Native Package","14.0.24210","Microsoft Corporation","20161020"
+"Universal CRT Redistributable","10.0.26624","Microsoft Corporation","20161020"
+"Windows Runtime Intellisense Content - en-us","8.100.25984","Microsoft Corporation","20161020"
+"Microsoft Blend for Visual Studio 2015 - 简体中文","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 Devenv 资源","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Microsoft System CLR Types for SQL Server 2014","12.0.2402.29","Microsoft Corporation","20161020"
+"Microsoft Portable Library Multi-Targeting Pack","14.0.25431.01","Microsoft Corporation","20161020"
+"WCF Data Services Tools for Microsoft Visual Studio 2015","5.6.62175.4","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools Premium X86 Base Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6.1 目标包(简体中文)","4.6.01055","Microsoft Corporation","20161020"
+"Visual C++ IDE Windows Express Plus Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 Native Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Application Insights Tools for Visual Studio 2015","7.0.20622.1","Microsoft Corporation","20161020"
+"Microsoft SQL Server 2016 Management Objects ","13.0.1601.5","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Azure Mobile Services Connected Service","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 X86 Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"MSBuild/NuGet Integration 14.0 (x86)","14.0.25420","Microsoft Corporation","20161020"
+"Multi-Device Hybrid Apps using C# - Templates - ENU","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005","12.0.21005","Microsoft Corporation","20151121"
+"Visual C++ Library CRT X86 Redist Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3 性能调试器 Web 视图 - 简体中文资源","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft ASP.NET MVC 4 - Visual Studio 2015 - CHS","4.1.41102.0","Microsoft Corporation","20161126"
+"Microsoft VisualStudio JavaScript Project System","14.0.25527","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies","14.0.25420","Microsoft Corporation","20161020"
+" Tools for .Net 3.5","3.11.50727","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Devenv Resources","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.5.1 SDK","4.5.51641","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.5.2 Multi-Targeting Pack","4.5.51651","Microsoft Corporation","20161020"
+"Visual C++ IDE Base Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Library CRT X64 Desktop Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Library CRT X86 Desktop Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"AzureTools.Notifications","2.7.30611.1601","Microsoft Corporation","20161020"
+"Visual C++ Library ATL Source Package","14.0.23026","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148","9.0.30729.4148","Microsoft Corporation","20170203"
+"Universal CRT Extension SDK","10.0.26624","Microsoft Corporation","20161020"
+"Visual C++ Professional Templates Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools Premium X86 X64 Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X64 X86 Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Prerequisites for SSDT ","12.0.2000.8","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 XAML Application Timeline","14.0.25431","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 X86 Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 X64 Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Debugger Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ Professional Templates Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Dotfuscator and Analytics Community Edition 语言包 5.22.0 zh-Hans","5.22.0.3788","PreEmptive Solutions","20161126"
+"Python Launcher","3.6.6032.0","Python Software Foundation","20170722"
+"Visual C++ Library ATL X86 Package","14.0.23026","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft SQL Server 2014 Management Objects ","12.0.2000.8","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6 Targeting Pack (简体中文)","4.6.00127","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU","14.0.25420","Microsoft Corporation","20161126"
+"Universal CRT Extension SDK","10.0.10150","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)","4.5.51209","Microsoft Corporation","20161020"
+"Visual C++ Library PGO Headers Package","14.0.24210","Microsoft Corporation","20161020"
+"Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1","14.0.41103.0","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.6 Targeting Pack","4.6.00081","Microsoft Corporation","20161020"
+"Microsoft NuGet - Visual Studio 2015","3.4.4.1321","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6.1 SDK","4.6.01055","Microsoft Corporation","20161020"
+"Windows Phone 8.1 Tools for Visual Studio Professionald 2013 - ENU","12.0.30723","Microsoft Corporation","20161126"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ IDE Base Package","14.0.25431","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium ARM Base Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft.VisualStudio.Office365","1.6.2.0","Microsoft Corporation","20161020"
+"用于 Windows Phone 的 Microsoft Visual Studio 2015 加载项 - 简体中文语言包","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.5.1 多目标包(简体中文)","4.5.50932","Microsoft Corporation","20161126"
+"LocalESPCui for en-us","8.59.29989","Microsoft","20161021"
+"Microsoft .NET Framework 4.5.2 多目标包(简体中文)","4.5.51209","Microsoft Corporation","20161126"
+"Microsoft Report Viewer Add-On for Visual Studio 2015","12.0.2402.20","Microsoft Corporation","20161126"
+"Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030","11.0.61030.0","Microsoft Corporation",
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Library CRT ARM Store Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 Base Package","14.0.24210","Microsoft Corporation","20161020"
+"Python 3.6.2 Executables (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Visual C++ MSBuild Base Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86","14.0.25420","Microsoft Corporation","20161020"
+"Windows Software Development Kit for Windows Store Apps","8.100.26936","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 Native Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Blend for Visual Studio SDK for .NET 4.5","3.0.40218.0","Microsoft Corporation","20161020"
+"Visual C++ IDE Debugger Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools Premium X64 Native Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Professional Items Package","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"用于 Visual Studio Professional 2013 的 Windows Phone 8.1 工具 - 简体中文","12.0.30723","Microsoft Corporation","20161126"
+"Visual C++ Library ATL Headers Package","14.0.23026","Microsoft Corporation","20161020"
+,,,
+"Visual C++ IDE Professional Plus Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Roslyn 语言服务 - x86","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Windows Diagnostic Tools","14.0.25431","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 X86 Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Microsoft Visual Studio 2015 准备","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 X64 Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Windows Espc Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft VisualStudio JavaScript Language Service","14.0.25527","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Python 3.6.2 Test Suite (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"PreEmptive Analytics Visual Studio Components","1.2.5134.1","PreEmptive Solutions","20161020"
+"Windows Phone SDK 8.0 Assemblies for Visual Studio 2015","14.0.25123","Microsoft Corporation","20161020"
+"Visual C++ Professional Templates Package","14.0.25420","Microsoft Corporation","20161020"
+"Windows Phone SDK 8.0 Assemblies","11.0.60610","Microsoft Corporation","20161126"
+"Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU","4.1.41102.0","Microsoft Corporation","20161020"
+"Python 3.6.2 Core Interpreter (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Visual C++ MFC Items Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Library MFC X64 Package","14.0.24213","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6.1 Developer Pack","4.6.1055","Microsoft Corporation",
+"TypeScript Power Tool","1.8.34.0","Microsoft Corporation","20161020"
+"Microsoft Help Viewer 2.2","2.2.25420","Microsoft Corporation","20161020"
+"Microsoft SQL Server 2014 T-SQL Language Service ","12.0.2000.8","Microsoft Corporation","20161020"
+"Visual C++ MFC Items Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ IDE Desktop Plus Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium ARM Base Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Windows Phone 8.1 Tools for Visual Studio 2015 - ENU","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Java Auto Updater","9.0.4.0","Oracle Corporation","20180212"
+"Python 2.7.13","2.7.13150","Python Software Foundation","20170908"
+"Microsoft Visual Studio 2015 Profiling Tools","14.0.25123","Microsoft Corporation","20161020"
+"Microsoft SQL Server Data Tools - enu (14.0.60519.0)","14.0.60519.0","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - CHS","4.1.41102.0","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Professional Items Resource Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Build Tools Language Resources 14.0 (x86)","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 ARM Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ MSBuild ARM Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 X64 Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Library CRT Redist Resource Package","14.0.24215","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3 诊断工具 - 简体中文","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ Library ATL ARM Package","14.0.23026","Microsoft Corporation","20161020"
+"Microsoft Azure Mobile Services Tools for Visual Studio - v1.4","1.4.30611.1601","Microsoft Corporation","20161020"
+"Visual C++ Library PGO ARM Package","14.0.24210","Microsoft Corporation","20161020"
+"Windows Software Development Kit for Windows Store Apps DirectX x86 Remote","8.100.26936","Microsoft Corporation","20161126"
+"Visual F# 4.0 VS Language Pack - CHS","14.0.23413","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.5 Multi-Targeting Pack","4.5.50710","Microsoft Corporation","20161020"
+"用于 Visual Studio Community 2015 的项目和项模板 - 简体中文","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X86 Native Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ MSBuild Base Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools Premium X86 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Visual C++ MFC Items Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft Visual Studio Community 2015 - ENU","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU","14.102.25619","Microsoft","20161126"
+"Visual C++ IDE Optional MFC Support Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Advertising SDK for Windows Phone - ENU","6.2.960.0","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X64 ARM Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Library ATL X64 Package","14.0.23026","Microsoft Corporation","20161020"
+"Visual C++ Library MFC X86 Package","14.0.24213","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 Base Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ MFC Items Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Python 3.6.2 Add to Path (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Dotfuscator and Analytics Community Edition 5.22.0","5.22.0.3788","PreEmptive Solutions","20161020"
+"Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015","14.1.11107.0","Microsoft Corporation","20161020"
+"Google Update Helper","1.3.33.7","Google Inc.","20180129"
+"Microsoft Visual Studio 2015 XAML Application Timeline - ENU","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ Library CRT X64 Redist Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 Base Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Azure Mobile Services Tools for Visual Studio 语言包 - 1.4 版","1.4.30611.1601","Microsoft Corporation","20161126"
+"用于 Visual Studio Professional 2015 的 Windows Phone 8.1 工具 - 简体中文","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU","4.1.41102.0","Microsoft Corporation","20161020"
+"Microsoft LightSwitch for Visual Studio 2015 v5.0 ToolsRes - ENU","14.0.23025","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 团队资源管理器语言包 - 简体中文","14.0.23102","Microsoft Corporation","20161126"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 SDK - ENU","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 Native Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Roslyn Language Services - x86","14.0.25431","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215","14.0.24215","Microsoft Corporation","20161020"
+"Python 3.6.2 Development Libraries (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Microsoft .NET Framework 4.5.1 Multi-Targeting Pack","4.5.50932","Microsoft Corporation","20161020"
+"Python 3.6.2 pip Bootstrap (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86","14.0.25431","Microsoft Corporation","20161020"
+"Microsoft Build Tools 14.0 (x86)","14.0.25420","Microsoft Corporation","20161020"
+"Roslyn Language Services - x86","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium ARM Base Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Windows Runtime Intellisense Content - en-us","8.59.29989","Microsoft Corporation","20161021"
+"Visual C++ CRT Headers Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 X64 Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Microsoft Portable Library Multi-Targeting Pack Language Pack - chs","14.0.25420.01","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Microsoft Visual Studio Connected Services","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Build Tools Language Resources - x86","12.0.31010","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools Premium X86 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 X64 Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Python 3.6.2 Documentation (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Python 3.6.2 Standard Library (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Microsoft Visual Studio Community 2015 with Updates","14.0.25420.1","Microsoft Corporation",
+"Microsoft Visual Studio Services Hub","1.0.25420.01","Microsoft Corporation","20161020"
+"Visual C++ IDE Desktop Plus Resource Package","14.0.23107","Microsoft Corporation","20161020"
+"Visual Studio 2015 Update 3 (KB3022398)","14.0.25420","Microsoft Corporation",
+"Team Explorer for Microsoft Visual Studio 2015 Update 3.1","14.102.25619","Microsoft","20161020"
+"Visual C++ Compiler/Tools Premium X64 Native Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools X86 Base Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005","12.0.21005.1","Microsoft Corporation",
+"Visual C++ IDE Common Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Windows Runtime Intellisense Content - zh-cn","8.100.25984","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 Shell (Minimum) Resources","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6.1 Developer Pack (CHS)","4.6.1055","Microsoft Corporation",
+"Visual C++ Compiler/Tools Premium X64 Base Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Microsoft LightSwitch for Visual Studio 2015 v5.0 ToolsRes - CHS","14.0.23025","Microsoft Corporation","20161126"
+"Visual C++ IDE Core Package","14.0.25431","Microsoft Corporation","20161020"
+"Visual C++ IDE Base Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Visual C++ MFC Items Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 X86 Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 X86 Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Microsoft System CLR Types for SQL Server 2016","13.0.1601.5","Microsoft Corporation","20161020"
+"Project and Item Templates for Visual Studio Community 2015 - ENU","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.24210","Microsoft Corporation","20161020"
+" Qzone相册极速上传工具 (由360提供卸载支持)",,,"20161019"
+"PreEmptive Analytics Client zh-Hans Language Pack","1.2.5134.1","PreEmptive Solutions","20161126"
+"Update for Microsoft Visual Studio 2015 (KB3165756)","14.0.25431","Microsoft Corporation",
+"Microsoft Silverlight","5.1.20513.0","Microsoft Corporation","20161020"
+"Azure AD Authentication Connected Service","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Preparation","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X86 Native Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 Base Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6.1 Targeting Pack","4.6.01055","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU","14.0.25420","Microsoft Corporation","20161020"
+"Universal CRT Headers Libraries and Sources","10.0.26624","Microsoft Corporation","20161020"
+"Microsoft SQL Server 2016 T-SQL Language Service ","13.0.14500.10","Microsoft Corporation","20161020"
+"Visual Studio Graphics Analyzer","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ MSBuild X86 Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2012 Compilers For Windows Phone - ENU Resources","11.0.60610","Microsoft Corporation","20161126"
+"Visual C++ IDE Base Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.6 SDK (简体中文)","4.6.00081","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)","4.6.01055","Microsoft Corporation","20161020"
+"Microsoft Azure Storage Connected Service","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 Base Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"用于 Visual Studio 2013 的 Windows Phone 8.1 工具 - 简体中文","12.0.30723","Microsoft Corporation","20161126"
+"Microsoft Office Proofing Tools 2013 - English","15.0.4569.1506","Microsoft Corporation","20180117"
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB2880463) 32-Bit Edition",,"Microsoft P",
+"Microsoft Office 校对工具 2013 - 简体中文","15.0.4569.1506","Microsoft Corporation","20180117"
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB2880463) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3172545) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft OneDrive for Business (KB3178645) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB3039798) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft InfoPath 2013 (KB3114946) 32-Bit Edition",,"Microsoft P",
+"Update for Skype for Business 2015 (KB4018377) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Project 2013 (KB4018379) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft OneNote 2013 (KB4011281) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039756) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft OneDrive for Business (KB3178645) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Microsoft Office Proofing (Chinese (Simplified)) 2013","15.0.4569.1506","Microsoft Corporation","20180117"
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Microsoft Visio MUI (Chinese (Simplified)) 2013","15.0.4569.1506","Microsoft Corporation","20180117"
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Microsoft Office Shared MUI (Chinese (Simplified)) 2013","15.0.4569.1506","Microsoft Corporation","20180522"
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB3172459) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft InfoPath 2013 (KB3114946) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4011103) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB3213564) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4011580) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Excel 2013 (KB4018399) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB4018333) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3023052) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4011253) 32-Bit Edition",,"Microsoft P",
+"Microsoft Office OSM MUI (Chinese (Simplified)) 2013","15.0.4569.1506","Microsoft Corporation","20180117"
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Office 16 Click-to-Run Extensibility Component","16.0.9226.2156","Microsoft Corporation","20180520"
+"Office 16 Click-to-Run Localization Component","16.0.9226.2156","Microsoft Corporation","20180520"
+"Office 16 Click-to-Run Localization Component","16.0.9226.2156","Microsoft Corporation","20180520"
+"Visual C++ Professional Items Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Microsoft Visio Professional 2013","15.0.4569.1506","Microsoft Corporation","20180522"
+"Update for Microsoft Office 2013 (KB3101503) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3178636) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3172545) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB3039798) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Outlook 2013 (KB4018376) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039766) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB3172459) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3114488) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB3039794) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4011103) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039701) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB2899522) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039778) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3172533) 32-Bit Edition",,"Microsoft P",
+"Definition Update for Microsoft Office 2013 (KB3115404) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB2760344) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3085587) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3172443) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3085565) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3172471) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB4011087) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3055007) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3114499) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3039756) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4011254) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4018288) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3023049) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB4018333) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3023052) 32-Bit Edition",,"Microsoft P",
+"Update for Microsoft Office 2013 (KB3172523) 32-Bit Edition",,"Microsoft P",
+"Security Update for Microsoft Office 2013 (KB4011253) 32-Bit Edition",,"Microsoft P",
+"Microsoft Visual Studio 2015 Preparation","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 Native Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 XAML 设计器 - 简体中文","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 Preparation","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 Native Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools Premium X86 X64 Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6.1 SDK (简体中文)","4.6.01055","Microsoft Corporation","20161020"
+"Visual C++ Library CRT ARM Redist Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610","11.0.60610.1","Microsoft Corporation",
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Library MFC Headers Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 语言包 - 简体中文","14.0.23107.10","Microsoft Corporation",
+"Microsoft Visual Studio 2015 Shell (最小)资源","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps","4.5.21005","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 X64 Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Windows Software Development Kit","8.100.26936","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Native Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Expression Blend SDK for .NET 4","2.0.20525.0","Microsoft Corporation","20161020"
+"Python 3.6.2 Utility Scripts (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161","9.0.30729.6161","Microsoft Corporation","20161119"
+"Visual C++ Library MFC Source Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Microsoft Visual Studio 2015 Preparation","14.0.23107","Microsoft Corporation","20161020"
+"Test Tools for Microsoft Visual Studio 2015","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 X64 Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Library CRT Source Package","14.0.24210","Microsoft Corporation","20161020"
+"用于 Windows 应用商店应用的 Microsoft .NET Framework 4.5.1 RC 多目标包(简体中文)","4.5.21005","Microsoft Corporation","20161126"
+"Microsoft Azure Mobile Services SDK V2.0","2.0.20908.0","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610","11.0.60610.1","Microsoft Corporation",
+"Windows Software Development Kit DirectX x86 Remote","8.100.25984","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU)","4.5.21005","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU","14.102.25619","Microsoft","20161020"
+"Windows Phone 8.1 Tools for Visual Studio 2013 - ENU","12.0.30723","Microsoft Corporation","20161126"
+"Visual Studio 2012 Verification SDK","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ IDE Base Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Advertising SDK for Windows Phone - CHS","6.2.960.0","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ IDE Debugger Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Visual Studio 2012 Verification SDK - chs","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Native Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools X64 Base Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium ARM Base Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 Native Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"vs_update3notification","14.0.25431","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU","14.0.25420","Microsoft Corporation","20161020"
+"Universal CRT Headers Libraries and Sources","10.0.10150","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 XAML Designer - ENU","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 ARM Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 ARM Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 Native Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Windows Phone 8.1 Tools for Visual Studio Professional 2015 - ENU","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft Portable Library Multi-Targeting Pack Language Pack - enu","14.0.25420.01","Microsoft Corporation","20161020"
+"Universal CRT Tools x86","10.0.26624","Microsoft Corporation","20161020"
+"Visual C++ IDE Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030","11.0.61030","Microsoft Corporation","20161119"
+"Visual C++ Compiler/Tools X64 Native Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"VS Update core components","14.0.25431","Microsoft Corporation","20161020"
+"Microsoft Agents for Visual Studio 2015 Preview - ENU","14.0.23102","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.6 SDK","4.6.00081","Microsoft Corporation","20161020"
+"Microsoft 帮助查看器 2.2 语言包 - CHS","2.2.25420","Microsoft Corporation","20161126"
+"Prerequisites for SSDT ","13.0.1601.5","Microsoft Corporation","20161020"
+"TypeScript Tools for Microsoft Visual Studio 2015","1.8.36.0","Microsoft Corporation","20161020"
+"Visual C++ IDE Optional Desktop Support Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Blend for Visual Studio 2015 - ENU","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215","14.0.24215","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 Base Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools X64 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ IDE Common Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030","11.0.61030","Microsoft Corporation","20161119"
+"Visual C++ IDE Professional Plus Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2012 Compilers For Windows Phone - CHS Resources","11.0.60610","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 Base Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Base Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Windows Runtime Intellisense Content - zh-cn","8.59.29989","Microsoft Corporation","20161126"
+"Visual C++ Library CRT X86 Store Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Library MFC MBCS Package","14.0.24213","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 Base Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 XAML Application Timeline - ENU","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Library PGO X86 Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X64 Native Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 Native Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Professional Core Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ IDE Common Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools X64 X86 Cross Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4.5.1 SDK（简体中文）","4.5.51641","Microsoft Corporation","20161126"
+"Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215","14.0.24215","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030","11.0.61030.0","Microsoft Corporation",
+"Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU","5.2.40314.0","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 测试工具语言包 - 简体中文","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 X86 Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005","12.0.21005.1","Microsoft Corporation",
+"Microsoft Agents for Visual Studio 2015 Preview","14.0.23102","Microsoft Corporation","20161020"
+"Microsoft Azure Shared Components for Visual Studio 2015 语言包(简体中文) - v1.8","1.8.40521.1","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X64 Base Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ IDE Optional XP Support Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft .NET Framework 4 Multi-Targeting Pack","4.0.30319","Microsoft Corporation","20161020"
+"Update for  (KB2504637)","1","Microsoft Corporation",
+"Visual C++ MSBuild Base Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 Base Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Professional Templates Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft Visual Studio 2015 Language Pack - ENU","14.0.23107.10","Microsoft Corporation",
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"用于 Visual Studio 2015 的 Windows Phone 8.1 工具 - 简体中文","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)","4.5.50932","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 Add-in for Windows Phone - ENU Language Pack","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ IDE Base Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"Microsoft Visual Studio 2015 Update 3 诊断工具 - 简体中文","14.0.25420","Microsoft Corporation","20161126"
+"Windows 10 Update Assistant","1.4.9200.22334","Microsoft Corporation",
+"Visual C++ MSBuild Base Resource Package","14.0.25420","Microsoft Corporation","20161126"
+"Microsoft Blend for Visual Studio 2015","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 Native Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215","14.0.24215.1","Microsoft Corporation",
+"Microsoft Visual Studio 2015 XAML Designer","14.0.25431","Microsoft Corporation","20161020"
+"Visual C++ IDE Core Professional Plus Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"WCF Data Services 5.6.4 Runtime","5.6.62175.4","Microsoft Corporation","20161020"
+"Visual C++ IDE Base Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual Studio Community 2015 - 简体中文","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X64 Native Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Microsoft Visual Studio Community 2015","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Library CRT X64 Store Package","14.0.24210","Microsoft Corporation","20161020"
+"Python 3.6.2 Tcl/Tk Support (32-bit)","3.6.2150.0","Python Software Foundation","20170722"
+"Microsoft .NET Core 5.0 SDK","1.0.23902","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X64 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ Compiler/Tools X64 Base Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium ARM Base Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ IDE Debugger Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215","14.0.24215.1","Microsoft Corporation",
+"Microsoft Visual Studio 2015 Test Tools Language Pack - ENU","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ Library PGO X64 Package","14.0.24210","Microsoft Corporation","20161020"
+"Windows Phone SDK 8.0 程序集 - chs","11.0.60610","Microsoft Corporation","20161126"
+"Visual F# 4.0 SDK Language Pack - CHS","14.0.23413","Microsoft Corporation","20161126"
+"Visual C++ IDE Base Resource Package","14.0.23107","Microsoft Corporation","20161021"
+,,,
+"Visual C++ Compiler/Tools X86 X64 Cross Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X64 Base Resource Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Desktop Plus Package","14.0.23107","Microsoft Corporation","20161020"
+"Visual C++ MSBuild X64 Package","14.0.25420","Microsoft Corporation","20161020"
+"Visual C++ Library CRT ARM Desktop Package","14.0.24210","Microsoft Corporation","20161020"
+"Visual C++ IDE Common Resource Package","14.0.25420","Microsoft Corporation","20161020"
+"Microsoft Azure Shared Components for Visual Studio 2015 - v1.8","1.8.40521.1","Microsoft Corporation","20161020"
+"Visual C++ MSBuild Base Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219","10.0.40219","Microsoft Corporation","20170203"
+"Visual C++ Compiler/Tools Premium X86 Base Resource Package","14.0.23026","Microsoft Corporation","20161126"
+"Realtek High Definition Audio Driver","6.0.1.7424","Realtek Semiconductor Corp.",
+"Visual C++ Compiler/Tools X86 ARM Cross Resource Package","14.0.23026","Microsoft Corporation","20161021"
+"Visual C++ IDE Common Resource Package","14.0.23107","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools Premium X64 X86 Cross Package","14.0.24210","Microsoft Corporation","20161020"
+"Windows XP Targeting with C++","11.0.51106","Microsoft Corporation","20161020"
+" Tools for .Net 3.5 - CHS Lang Pack","3.11.50727","Microsoft Corporation","20161126"
+"Windows App Certification Kit x64","8.100.26795","Microsoft Corporation","20161126"
+"Visual C++ IDE Debugger Package","14.0.25431","Microsoft Corporation","20161020"
+"Xshell 5","5.0.1339","NetSarang Computer, Inc.","20180118"
+"Active Directory Authentication Library for SQL Server (x86)","13.0.1601.5","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools Premium X86 Base Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Visual C++ Compiler/Tools X86 ARM Cross Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Microsoft Visual Studio Code","1.19.1","Microsoft Corporation","20171225"
+"Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005","12.0.21005","Microsoft Corporation","20151121"
+"Visual C++ IDE Professional Plus Resource Package","14.0.23107","Microsoft Corporation","20161021"
+"LocalESPCui for zh-cn","8.59.29989","Microsoft","20161126"
+"Microsoft Visual Studio 2015 Devenv","14.0.23107","Microsoft Corporation","20161020"
+"Windows Espc Resource Package","14.0.23107","Microsoft Corporation","20161020"
+"Microsoft Visual Studio 2015 XAML Visual Diagnostics","14.0.25431","Microsoft Corporation","20161020"
+"Visual C++ Compiler/Tools X86 Native Resource Package","14.0.24210","Microsoft Corporation","20161126"
+"Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022","9.0.21022","Microsoft Corporation","20161113"
+,,,
+"百度网盘","5.5.0","百度在线网络技术（北京）有限公司",
+"网易云音乐","2.2.3.196108","网易公司",
+"迅雷影音","5.2.10.5496","迅雷网络技术有限公司",

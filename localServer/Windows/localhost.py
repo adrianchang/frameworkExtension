@@ -18,11 +18,13 @@ class HTTPRequstHandler(BaseHTTPRequestHandler):
     # try:
         packet = generate_response()
         self.wfile.write(json.dumps(packet).encode('utf-8'))
+        print('Response has been sent...')
     # except Exception as e:
         #print(e)
 
 
-#os.system('fetch_version_info.bat')
+
+# software info database not used yet, just leave room for further work
 conn = sqlite3.connect('./data/software.db')
 cursor = conn.cursor()
 cursor.execute('CREATE TABLE IF NOT EXISTS Software(name TEXT, local_ver TEXT, latest_ver TEXT)')
